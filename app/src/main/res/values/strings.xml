@@ -194,22 +194,22 @@
     <!-- Strings for App Rate Dialog -->
     <string name="rate_dialog_title">Rate this app</string>
     <string name="rate_dialog_text">If you enjoy using this app, rate it. Thank you for your support!</string>
-    <string name="rate_dialog_yes">Rate now</string>
-    <string name="rate_dialog_later">Remind me later</string>
+    <string name="rate_dialog_yes">OK</string>
+    <string name="rate_dialog_later">Later</string>
     <string name="rate_dialog_never">No</string>
 
     <!-- Strings for Drive Dialog -->
     <string name="drive_dialog_title">Connect Google Drive</string>
     <string name="drive_dialog_text">Would you like to backup your data to your Google Drive account?</string>
     <string name="drive_dialog_yes">Yes</string>
-    <string name="drive_dialog_later">Remind me later</string>
+    <string name="drive_dialog_later">Later</string>
     <string name="drive_dialog_never">No</string>
 
     <!-- Strings for Translation -->
     <string name="translate_dialog_title">Translate Diet Diary</string>
-    <string name="translate_dialog_text">Would you like to help translate Diet Diary into your language?</string>
+    <string name="translate_dialog_text">Would you like to help translate Diet Diary to your language?</string>
     <string name="translate_dialog_yes">Yes</string>
-    <string name="translate_dialog_later">Remind me later</string>
+    <string name="translate_dialog_later">Later</string>
     <string name="translate_dialog_never">No</string>
 
 </resources>
